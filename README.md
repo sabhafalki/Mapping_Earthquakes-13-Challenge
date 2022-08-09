@@ -20,9 +20,11 @@ The following figure depicts the Tectonic Plate: <br>
 ![Satellite](/Earthquake_Challenge/Image/Satellite.png) <br><br>
 
 ### Major Earthquake ###
-  
 The following figure depicts the Major Earthquake Data. <br>
-  
+	
 <b>Major Earthquakes with Faultlines - Street Layer<b> <br>
 ![DV2_Street](/Earthquake_Challenge/Image/DV2_Street.png) <br><br>
+	
+<b>Major Earthquakes with Faultlines - Satellite Layer<b> <br>
+![DV2_Street](/Earthquake_Challenge/Image/DV2_Satellite.png) <br><br>
 
