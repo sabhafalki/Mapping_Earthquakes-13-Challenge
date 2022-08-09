@@ -34,6 +34,9 @@ The following figure depicts the All Earthquake Data: <br>
 All Earthquakes with Faultlines - Dark Layer <br>
 ![DV3_dark2](/Earthquake_Challenge/Image/DV3_dark2.png) <br><br>
 
+![DV3_light](/Earthquake_Challenge/Image/DV3_light.png) <br><br>
+
+![DV3_dark](/Earthquake_Challenge/Image/DV3_dark.png) <br><br>
 
 
 
