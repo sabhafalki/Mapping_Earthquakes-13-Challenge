@@ -10,25 +10,30 @@ The purpose of this Project is to create earthquake map with two different maps 
 ## Results ##
 ### Tectonic Plate ###
 The following figure depicts the Tectonic Plate: <br>
-The following figure depicts the Tectonic Plate: <br>
 
-<b>Earthquakes with Faultlines - Street Layer <br>
+Earthquakes with Faultlines - Street Layer <br>
 
 ![StreetView](/Earthquake_Challenge/Image/Deliverable1.png) <br><br>
 
-<b>Earthquakes with Faultlines - Satellite Layer <br>
+Earthquakes with Faultlines - Satellite Layer <br>
 
 ![Satellite](/Earthquake_Challenge/Image/Satellite.png) <br><br>
 
 ### Major Earthquake ###
-The following figure depicts the Tectonic Plate: <br>
 The following figure depicts the Major Earthquake Data: <br>
 	
-<b>Major Earthquakes with Faultlines - Street Layer <br>
+Major Earthquakes with Faultlines - Street Layer <br>
 ![DV2_Street](/Earthquake_Challenge/Image/DV2_Street.png) <br><br>
 	
-<b>Major Earthquakes with Faultlines - Satellite Layer <br>
+Major Earthquakes with Faultlines - Satellite Layer <br>
 ![DV2_Street](/Earthquake_Challenge/Image/DV2_Satellite.png) <br><br>
+
+### Tectonic Plate And Major Earthquake ###
+The following figure depicts the All Earthquake Data: <br>
+
+All Earthquakes with Faultlines - Dark Layer <br>
+![DV3_dark2](/Earthquake_Challenge/Image/DV3_dark2.png) <br><br>
+
 
 
 
