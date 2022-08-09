@@ -9,7 +9,7 @@ The purpose of this Project is to create earthquake map with two different maps 
 
 ## Results ##
 ### Tectonic Plate ###
-Street
+The following figure depicts the Tectonic Plate: <br>
 
 <b>Earthquakes with Faultlines - Street Layer<b> <br>
 
